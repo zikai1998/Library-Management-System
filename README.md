@@ -2,7 +2,7 @@
 
 Library Management System was implemented using Python language. 
 
-There is manager account for checking the feedback of the normal user and four user account in the library management system
+There is manager account for checking the feedback of the normal user and four user account in the library management system.
 Manager account able to access the feedbacks left by other user but does not have access to other features.
 Normal user can use all the function of the library management system.
 
